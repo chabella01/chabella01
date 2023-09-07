@@ -1,7 +1,7 @@
-Hi👋 I am Christian Abella
-I am a Computer Engineering student at San Diego State University
-I am interested in becoming a Software Engineer and I have most experience in backend development and embedded programming
-I am looking to collaborate with like-minded and bright individuals to work on impactful projects 
+###Hi👋 I am Christian Abella
+###I am a Computer Engineering student at San Diego State University
+###I am interested in becoming a Software Engineer and I have most experience in backend development and embedded programming
+###I am looking to collaborate with like-minded and bright individuals to work on impactful projects 
 
 <!--
 **chabella01/chabella01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
